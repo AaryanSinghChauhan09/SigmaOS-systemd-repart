@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-repart"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-repart component - init_system"
+
+[lib]
+name = "systemd_repart"
+path = "src/lib.rs"
