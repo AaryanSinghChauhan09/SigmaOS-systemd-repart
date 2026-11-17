@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-repart"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-repart component"
+description = "systemd repart"
 upstream = []
 
 [contract]
